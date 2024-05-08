@@ -1,23 +1,22 @@
-import logo from './logo.svg';
+
+import { useState } from 'react';
 import './App.css';
+import Menu from './components/Menu/Menu';
+import Header from './components/Header/Header';
+import Promo from './components/Promo/Promo';
+import AboutProject from './components/AboutProject/AboutProject'
 
 function App() {
+  const items =[{value: "Главная", href:"/main"},{value: "Услуги", href:"/main"},{value: "Магазин", href:"/main"}];
+  const [menuActive, setMenuActive] = useState(false);
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header active={menuActive} setActive={setMenuActive}/>
+      <main>
+        <Promo/>
+        <AboutProject/>
+      </main>
+      <Menu active={menuActive} setActive={setMenuActive} header={"Burger menu"} items={items}/>
     </div>
   );
 }
