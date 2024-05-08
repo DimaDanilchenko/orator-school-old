@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DimaDanilchenko/orator-school-old/static/css/main.f855e6bc.css",
-    "main.js": "/DimaDanilchenko/orator-school-old/static/js/main.3fa86437.js",
-    "static/js/453.46c11af8.chunk.js": "/DimaDanilchenko/orator-school-old/static/js/453.46c11af8.chunk.js",
-    "static/media/logo.svg": "/DimaDanilchenko/orator-school-old/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/DimaDanilchenko/orator-school-old/index.html",
-    "main.f855e6bc.css.map": "/DimaDanilchenko/orator-school-old/static/css/main.f855e6bc.css.map",
-    "main.3fa86437.js.map": "/DimaDanilchenko/orator-school-old/static/js/main.3fa86437.js.map",
-    "453.46c11af8.chunk.js.map": "/DimaDanilchenko/orator-school-old/static/js/453.46c11af8.chunk.js.map"
+    "main.css": "/orator-school-old/static/css/main.f855e6bc.css",
+    "main.js": "/orator-school-old/static/js/main.708e57df.js",
+    "static/js/453.46c11af8.chunk.js": "/orator-school-old/static/js/453.46c11af8.chunk.js",
+    "static/media/logo.svg": "/orator-school-old/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/orator-school-old/index.html",
+    "main.f855e6bc.css.map": "/orator-school-old/static/css/main.f855e6bc.css.map",
+    "main.708e57df.js.map": "/orator-school-old/static/js/main.708e57df.js.map",
+    "453.46c11af8.chunk.js.map": "/orator-school-old/static/js/453.46c11af8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.3fa86437.js"
+    "static/js/main.708e57df.js"
   ]
 }
