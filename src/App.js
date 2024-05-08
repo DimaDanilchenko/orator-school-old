@@ -10,9 +10,9 @@ function App() {
   const items =[{value: "Главная", href:"/main"},{value: "Услуги", href:"/main"},{value: "Магазин", href:"/main"}];
   const [menuActive, setMenuActive] = useState(false);
   return (
-    <div className="App">
+    <div className="app">
       <Header active={menuActive} setActive={setMenuActive}/>
-      <main>
+      <main className='main'>
         <Promo/>
         <AboutProject/>
       </main>
