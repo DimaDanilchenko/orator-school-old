@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/orator-school-old/static/css/main.6921cd5e.css",
-    "main.js": "/orator-school-old/static/js/main.c3a06a75.js",
+    "main.css": "/orator-school-old/static/css/main.bf0670ac.css",
+    "main.js": "/orator-school-old/static/js/main.5ec5c72f.js",
     "static/media/pavel-main.jpeg": "/orator-school-old/static/media/pavel-main.78c20ae1bce14333d445.jpeg",
     "index.html": "/orator-school-old/index.html",
-    "main.6921cd5e.css.map": "/orator-school-old/static/css/main.6921cd5e.css.map",
-    "main.c3a06a75.js.map": "/orator-school-old/static/js/main.c3a06a75.js.map"
+    "main.bf0670ac.css.map": "/orator-school-old/static/css/main.bf0670ac.css.map",
+    "main.5ec5c72f.js.map": "/orator-school-old/static/js/main.5ec5c72f.js.map"
   },
   "entrypoints": [
-    "static/css/main.6921cd5e.css",
-    "static/js/main.c3a06a75.js"
+    "static/css/main.bf0670ac.css",
+    "static/js/main.5ec5c72f.js"
   ]
 }
